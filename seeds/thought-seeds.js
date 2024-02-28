@@ -1,115 +1,74 @@
 const seedThoughts = [
   {
-    thoughtText: "This is a sample thought about something interesting.",
-    username: "Yennefer",
+    thoughtText: "This was an excellent post mane.",
+    username: "Doug E Fresh",
     reactions: [
       {
         reactionBody: "👍",
-        username: "Triss",
+        username: "Reakwon The Chef",
       },
       {
         reactionBody: "😄",
-        username: "Ciri",
+        username: "RZA",
       },
     ],
   },
   {
-    thoughtText: "This is a sample thought about something else interesting.",
-    username: "Triss",
+    thoughtText: "Protect ya neck!",
+    username: "Grand Master Flash",
     reactions: [
       {
         reactionBody: "👍",
-        username: "Yennefer",
+        username: "U God",
       },
       {
         reactionBody: "😄",
-        username: "Ciri",
+        username: "Ghostface",
       },
     ],
   },
   {
-    thoughtText: "This is a sample thought about something else interesting.",
-    username: "Ciri",
+    thoughtText: "Clan in the front.",
+    username: "Slick Rick",
     reactions: [
       {
         reactionBody: "👍",
-        username: "Yennefer",
+        username: "Big Baby Jesus/Ol' Dirty Bastard",
       },
       {
         reactionBody: "😄",
-        username: "Triss",
+        username: "Method Man",
       },
     ],
   },
   {
-    thoughtText: "This is a sample thought about something else interesting.",
-    username: "Geralt",
+    thoughtText: "C.R.E.A.M.",
+    username: "Too Short",
     reactions: [
       {
         reactionBody: "👍",
-        username: "Yennefer",
+        username: "Inspectah Deck",
       },
       {
         reactionBody: "😄",
-        username: "Triss",
+        username: "Ghostface Killer/Tony Starks",
       },
     ],
   },
   {
-    thoughtText: "This is a sample thought about something else interesting.",
-    username: "Yennefer",
+    thoughtText: "Let's go back to the 36 chambers!",
+    username: "NAS",
     reactions: [
       {
         reactionBody: "👍",
-        username: "Triss",
+        username: "Cappadona",
       },
       {
         reactionBody: "😄",
-        username: "Ciri",
+        username: "GZA",
       },
     ],
   },
-  {
-    thoughtText: "This is a sample thought about something else interesting.",
-    username: "Triss",
-    reactions: [
-      {
-        reactionBody: "👍",
-        username: "Yennefer",
-      },
-      {
-        reactionBody: "😄",
-        username: "Ciri",
-      },
-    ],
-  },
-  {
-    thoughtText: "This is a sample thought about something else interesting.",
-    username: "Ciri",
-    reactions: [
-      {
-        reactionBody: "👍",
-        username: "Yennefer",
-      },
-      {
-        reactionBody: "😄",
-        username: "Triss",
-      },
-    ],
-  },
-  {
-    thoughtText: "This is a sample thought about something else interesting.",
-    username: "Geralt",
-    reactions: [
-      {
-        reactionBody: "👍",
-        username: "Yennefer",
-      },
-      {
-        reactionBody: "😄",
-        username: "Triss",
-      },
-    ],
-  },
+  
 ];
 module.exports = seedThoughts;

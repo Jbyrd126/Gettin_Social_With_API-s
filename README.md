@@ -4,11 +4,6 @@
   <!-- ![Name](urlToShieldHere)(urlToGithubHere) -->
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Contributors](https://img.shields.io/github/contributors/404pandas/social-network-api.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/social-network-api/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/404pandas/social-network-api.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/social-network-api/network/members)
-[![Stargazers](https://img.shields.io/github/stars/404pandas/social-network-api.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/social-network-api/stargazers)
-[![Issues](https://img.shields.io/github/issues/404pandas/social-network-api.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/social-network-api/issues)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=appveyor&logo=linkedin&colorB=555)](https://linkedin.com/in/404pandas)
 
 </div>
 
@@ -16,17 +11,17 @@
 
 <div align="center">
 
-  <h3 align="center">Social Network API</h3>
+  <h3 align="center">Gettin Social With API's</h3>
 
   <p align="center">
-    <a href="https://github.com/404pandas/social-network-api"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Jbyrd126/Gettin_Social_With_API-s"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="#usage">View Demo Video</a>
     ·
-    <a href="https://github.com/404pandas/social-network-api/issues">Report Bug</a>
+    <a href="https://github.com/Jbyrd126/Gettin_Social_With_API-s/issues">Report Bug</a>
     ·
-    <a href="https://github.com/404pandas/social-network-api/issues">Request Feature</a>
+    <a href="https://github.com/Jbyrd126/Gettin_Social_With_API-s/issues">Request Feature</a>
 
   </p>
 </div>
@@ -89,7 +84,7 @@ Once completely built, this application will function as a social media backend 
 1. Clone the rep
 
 ```
-git clone https://github.com/404pandas/social-network-api.git
+git clone git@github.com:Jbyrd126/Gettin_Social_With_API-s.git
 ```
 
 2. Install dependencies
@@ -112,13 +107,15 @@ npm run start
 
 5. Visit:
 
-[http://localhost:3001/api/](http://localhost:3001/api/)
+```
+http://localhost:3001/api/ (http://localhost:3001/api/)
+```
 
 <!-- USAGE EXAMPLES -->
 
 ## Usage
 
-https://github.com/404pandas/social-network-api/assets/113853550/7d7e0153-6da9-4835-a01e-0d2bacb1bcf6
+video link goes here
 
 ### Available Routes
 
@@ -188,11 +185,11 @@ See LICENSE.txt for more information.
 
 ## Contact
 
-[Mary Elenius](https://maryelenius.com/) - mary.panda.jackson@gmail.com
+[Rob Byrd](https://github.com/Jbyrd126)- jbyrd126@gmail,com
 
 Project Link:
 
-[Github Repository](https://github.com/404pandas/social-network-api)
+[Github Repository](https://github.com/Jbyrd126/Gettin_Social_With_API-s)
 
 <!-- ACKNOWLEDGMENTS -->
 

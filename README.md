@@ -115,7 +115,7 @@ http://localhost:3001/api/ (http://localhost:3001/api/)
 
 ## Usage
 
-video link goes here
+[Video Demo](https://watch.screencastify.com/v/Fa9vkaJwHA5DFLJt6Pxk)
 
 ### Available Routes
 
@@ -156,7 +156,7 @@ video link goes here
 
 - [ ] Add front end
 
-See the [open issues](https://github.com/404pandas/social-network-api/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Jbyrd126/Gettin_Social_With_API-s/issues) for a full list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -185,7 +185,7 @@ See LICENSE.txt for more information.
 
 ## Contact
 
-[Rob Byrd](https://github.com/Jbyrd126)- jbyrd126@gmail,com
+[Rob Byrd](https://github.com/Jbyrd126)- jbyrd126@gmail.com
 
 Project Link:
 
@@ -195,4 +195,4 @@ Project Link:
 
 ## Acknowledgments
 
-I would like to give a big shoutout to my partner in crime and daughter, Yennefer! Every day she proves she is small yet mighty!
+Big ups to our Instructor John Dinsmore and shots way out to our TA Mary Elenius for tryin to push this mouth breather towards the light!
